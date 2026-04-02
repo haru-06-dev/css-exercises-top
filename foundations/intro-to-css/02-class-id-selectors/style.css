@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-element{
+   font-family: 'Verdana', sans-serif;
+   background-color: #FDBEB2;
+}
+#second-element{
+   color: rgb(0, 0, 255);
+   font-size: 32px;
+}
+
+/* selects 3rd and fourth element */
+.cooler{
+   font-size: 24px;
+}
+
+#fourth-element{
+   font-weight: bold;
+   background-color: lightgreen;
+}
+
